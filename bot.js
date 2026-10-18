@@ -4,7 +4,7 @@ const path = require('path');
 const PDFDocument = require('pdfkit');
 
 // ⚠️ REEMPLAZA AQUÍ TU TOKEN DE TELEGRAM
-const bot = new Telegraf('8716309397:AAHO3DtPCWe4OSBjgx39EgP6rlqVF3FOj78');
+const bot = new Telegraf('8716309397:AAGmzXXo0OQIp3Fnve-B-I5dZuB7W4nsWIU');
 
 // ⚠️ REEMPLAZA AQUÍ EL ID DE TU GRUPO DE ADMINISTRADORES (Ej: -1001234567890)
 const ADMIN_CHAT_ID = '-1004266293162'; 
